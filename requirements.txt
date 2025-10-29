@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+requests
+python-dotenv
+pillow          # for image generation
