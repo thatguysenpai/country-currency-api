@@ -86,15 +86,3 @@ Response:
   "currency": "GHS"
 }
 
-
-```
-### Project structure 
-country-data-api/
-│
-├── main.py                # FastAPI entry point
-├── models.py              # Database models
-├── database.py            # DB connection setup
-├── schemas.py             # Pydantic schemas
-├── requirements.txt       # Dependencies
-├── README.md              # Project documentation
-└── __pycache__/           # Auto-generated cache
